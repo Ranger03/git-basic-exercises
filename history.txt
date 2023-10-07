@@ -1,0 +1,500 @@
+   64  mkdir linux
+   65  cd linux
+   66  ls
+   67  clear
+   68  mkdir fruits
+   69  mkdir
+   70  mkdir veg
+   71  ls
+   72  clear
+   73  touch banana
+   74  touch orange apple mango union green_paper mushrooms garlic ginger
+   75  ls
+   76  cd fruits/
+   77  touch remove_me
+   78  touch Mali_Mbtha
+   79  ls
+   80  cd ..
+   81  cd veg
+   82  echo 'I am going to be a sofewar enginiya' > code
+   83  ls
+   84  cat code
+   85  cd linux
+   86  cd ..
+   87  ls
+   88  clear
+   89  ls
+   90  touch REAME.md
+   91  ls
+   92  rm READEME.md
+   93  ls
+   94  ls
+   95  touch README.txt
+   96  vim README.txt
+   97  cd ..
+   98  ls
+   99  clear
+  100  ls
+  101  cd sss.PNG
+  102  git status
+  103  clear
+  104  exit
+  105  which $shell
+  106  clear
+  107  which $SHELL
+  108  cd Desktop/
+  109  cd
+  110  ls
+  111  cealr
+  112  clear
+  113  cd Documents/
+  114  cd ~
+  115  locate code.txt
+  116  cd downloads
+  117  ls
+  118  pwd
+  119  clear
+  120  cd /desktop/linux/
+  121  cd desktop
+  122  cd linux
+  123  ls -l
+  124  ls -a
+  125  cd desktop
+  126  cd linux
+  127  ls
+  128  touch script
+  129  vim script
+  130  chmod u+x script
+  131  ls
+  132  cat script
+  133  ./script
+  134  touch exit
+  135  vim exit
+  136  chmod u+x exit
+  137  ls
+  138  ./exit
+  139  cat exit
+  140  ./exit
+  141  vim exit
+  142  ls
+  143  ./exit
+  144  ls
+  145  clear
+  146  ls
+  147  ./script
+  148  ./exit
+  149  cd ..
+  150  ls
+  151  cd desktop
+  152  cd desktop
+  153  cd linux
+  154  ls
+  155  ll
+  156  vim exit
+  157  clear
+  158  ls
+  159  ./exit
+  160  ls
+  161  cd files
+  162  ls
+  163  cat dangerous
+  164  ip config
+  165  ip
+  166  whoami
+  167  note
+  168  git
+  169  clear
+  170  cd /root
+  171  cd desktop
+  172  cd linux
+  173  ls
+  174  touch pyth.py
+  175  vim pyth.py
+  176  cat pyth.py
+  177  python pyth.py
+  178  vim pyth.py
+  179  killall TeamViewer
+  180  cd desktop
+  181  killall TeamViewer
+  182  man man
+  183  ip
+  184  ls
+  185  cd desktop
+  186  clear
+  187  ifconfig
+  188  ssh
+  189  cd C:\Users\Sakhile\STM32CubeIDE\workspace_1.8.0\mec4126f_prac3_KGPSAK001
+  190  cd Users
+  191  clear
+  192  ls
+  193  touch files
+  194  rm files
+  195  mkdir git_Repo
+  196  cd git_Repo
+  197  git init
+  198  clear
+  199  ls
+  200  cd documents
+  201  cd 
+  202  clear
+  203  ls
+  204  cd documents
+  205  ls
+  206  cd STM32CubeIDE
+  207  cd .
+  208  clear
+  209  cd users
+  210  git status
+  211  touch filex
+  212  git status
+  213  rm filex
+  214  ls
+  215  rm -r mec4126f_prac3_KGPSAK001
+  216  git status 
+  217  git add .
+  218  git commit -m "just"
+  219  git push
+  220  CLEAR
+  221  cd users
+  222  ls
+  223  cd  
+  224  cd users
+  225  ls
+  226  cd stm32cubeide
+  227  ls
+  228  cd workspace_1.8.0
+  229  ls
+  230  cd mec4126f_prac3_KGPSAK001
+  231  git init
+  232  ls
+  233  git add .
+  234  git commit -m "Mec prepo"
+  235  git push
+  236  git push mec4126f_prac3_KGPSAK001
+  237  git push --set-upstream mec4126f_prac3_KGPSAK001 master
+  238  
+  239  git clone https://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@github.com/Ranger03/mec4126f_prac3_KGPSAK001.git
+  240  git status
+  241  git add .
+  242  git commit -m "Uploading customs file"
+  243  git push
+  244  git status
+  245  git add .
+  246  git commit -m "Task half done"
+  247  git push
+  248  git status
+  249  git add .
+  250  git commit -m "Function to Display Age"
+  251  git push
+  252  git status
+  253  git status
+  254  git init
+  255  git status
+  256  git add .
+  257  git commit -m "Created a display_on_LCD Function"
+  258  git push
+  259  git push MEC4126F_PRAC5_KGPSAK001
+  260  git push
+  261  git add .
+  262  git commit -m "Created a display_on_LCD Function"
+  263  git push
+  264  git push main.c
+  265  git init
+  266  git status
+  267  git status
+  268  clear
+  269  cd MEC4126F_PRAC5_KGPSAK001
+  270  ls
+  271  clear
+  272  git clone https://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@github.com/Ranger03/MEC4126F_PRAC5_KGPSAK001.git
+  273  ls
+  274  git status
+  275  clear
+  276  ls
+  277  cd MEC4126F_PRAC5_KGPSAK001
+  278  git status
+  279  git add .
+  280  git commit -m "Created a display_on_LCD Function"
+  281  git push
+  282  clear
+  283  ls
+  284  git status
+  285  git add .
+  286  git commit -m "Created a function called init_LEDs"
+  287  git push
+  288  git status
+  289  git push
+  290  git status
+  291  clear
+  292  git status
+  293  git add .
+  294  git commit -m "Created a function called display_ON_LEDs"
+  295  git push
+  296  git status
+  297  clear
+  298  git add .
+  299  git commit -m "Created a funtion called init_Switches"
+  300  git push
+  301  git add .
+  302  git commit -m "Created a function called init_external_interrupts"
+  303  git push
+  304  touch mains.c
+  305  touch main1.c main2.c main3.c main4.c main5.c
+  306  django-admin --version
+  307  ls
+  308  cat controls.NFS13Save
+  309  vim controls.NFS13Save
+  310  clear
+  311  ls
+  312  ls a
+  313  ls
+  314  vim  controls.NFS13Save
+  315  ls
+  316  ls
+  317  vim 
+  318  ls
+  319  clear
+  320  ls
+  321  vim controls.NFS13Save
+  322  ls
+  323  vim  config.NFS13Save
+  324  ls
+  325  vim controls.NFS13Save
+  326  uptime
+  327  whoami
+  328  date
+  329  hostname
+  330  cal
+  331  w
+  332  dmesg
+  333  free -h
+  334  who
+  335  ifconfig -a
+  336  ping host
+  337  ssh-keygen -t rsa
+  338  ssh-keygen -t rsa
+  339  ls
+  340  cd desktop
+  341  clear
+  342  [200~ssh f1831b9ebaf1@f1831b9ebaf1.05ecbdd3.alx-cod.online~
+  343  #!/bin/bash
+  344  # send a GET request to the URL using curl, and display the body of the response
+  345  curl -sH "X-School-User-Id: 98" "$1"
+  346  node index.js
+  347  git
+  348  git --version
+  349  cd desktop
+  350  ls
+  351  ls /
+  352  pwd
+  353  ls
+  354  cd websites
+  355  ls
+  356  cd ../..
+  357  ls
+  358  cd home
+  359  ls
+  360  rm -r tests
+  361  ls
+  362  ls
+  363  rm -i test
+  364  ls
+  365  rmdir -i test
+  366  rm -r test
+  367  clear
+  368  ls
+  369  ls -a
+  370  git init
+  371  ls -a
+  372  git status
+  373  touch README.md
+  374  ls -a
+  375  git log
+  376  git add
+  377  git status
+  378  git status
+  379  clear
+  380  git add .
+  381  git commit -m "initial commit"
+  382  git log
+  383  nano README,md
+  384  cat README.md
+  385  nano README,md
+  386  cat README.md
+  387  vim README.md
+  388  cat README.md
+  389  git status
+  390  clear
+  391  git add .
+  392  ls
+  393  rm =r README,md  README.md
+  394  rm -r README,md  README.md
+  395  ls
+  396  clear
+  397  ls -a
+  398  ls
+  399  nano README.md
+  400  cat README.md
+  401  git status
+  402  git reset
+  403  git status
+  404  git add .
+  405  git commit -m "Second commit"
+  406  nano README.md
+  407  git add .
+  408  git commit -m "third commit"
+  409  git log
+  410  git checkout c01824dea61e55424a1690aa6a71d15dc34a899a
+  411  cat README.md
+  412  git checkout main
+  413  git checkout master
+  414  cat README.md
+  415  clear
+  416  ls
+  417  git branch
+  418  milkshake-flavours
+  419  git branch milkshake-flavours
+  420  git branch
+  421  git switch
+  422  git switch milkshake-flavours 
+  423  nano milkshakes.md
+  424  git status
+  425  git add .
+  426  git commit -m "added initial flavours"
+  427  git switch master
+  428  ls
+  429  clear
+  430  git branch history
+  431  git branch
+  432  git switch history
+  433  git log
+  434  git branch
+  435  git switch master
+  436  history > history.txt
+  437  ls
+  438  git add .
+  439  git commit -m "added history"
+  440  git log
+  441  git switch milkshake-flavours 
+  442  git log
+  443  ls
+  444  nano README.md
+  445  ls
+  446  git switch history 
+  447  ls
+  448  cat README.md
+  449  rm README.md
+  450  echo "booya" > README.md
+  451  git add .
+  452  git commit -m "rewrote readme"
+  453  git switch master
+  454  clear
+  455  ls
+  456  git log
+  457  git switch milkshake-flavours 
+  458  ls
+  459  git log
+  460  git status
+  461  cat README.md
+  462  git checkout history
+  463  ls
+  464  history > history.txt
+  465  git add ,
+  466  git add .
+  467  git commit -m "added history"
+  468  git checkout master
+  469  ls
+  470  rm -r history.txt
+  471  cat README.me
+  472  cat README.md
+  473  clear
+  474  git merge milkshake-flavours 
+  475  ls
+  476  git log
+  477  ls git log
+  478  git checkout history 
+  479  git log
+  480  git checkout milkshake-flavours 
+  481  git log
+  482  git checkout history
+  483  git merge master
+  484  checkout main
+  485  git checkout main
+  486  git checkout master
+  487  git checkout main
+  488  git checkout master
+  489  git remote add origin https://github.com/Ranger03/git-basic-exercises.git
+  490  git branch -M master
+  491  git push -u origin master
+  492  ls
+  493  git merge history
+  494  git check history
+  495  git checkout history
+  496  cat history.txt
+  497  git switch history
+  498  git branch
+  499  ls
+  500  rm -r git-basic-exercises
+  501  ls -a
+  502  git init
+  503  ls -a
+  504  git status
+  505  touch README.md
+  506  ls -a
+  507  git status
+  508  git log
+  509  git add 
+  510  git add .
+  511  clear
+  512  git status
+  513  git reset
+  514  git status
+  515  git add .
+  516  git reset
+  517  git status
+  518  clear
+  519  git add .
+  520  git commit -m "initial commit"
+  521  git log
+  522  nano README.md
+  523  cat README.md
+  524  git status
+  525  git add .
+  526  git commit -m "second commit"
+  527  nano README.md
+  528  git add .
+  529  git commit -m "third commit"
+  530  clear
+  531  git log
+  532  git checkout  21a90397b6b778ba038735eeec72790f14fb5bf7
+  533  cat README.md
+  534  git checkout 21a90397b6b778ba038735eeec72790f14fb5bf7
+  535  cat README.md
+  536  clear
+  537  git checkout master
+  538  cat README.md
+  539  git branch
+  540  git branch mailkshake-flavours
+  541  git branch
+  542  git checkout milkshake-flavours
+  543  git branch milkshake-flavours
+  544  git branch -d  mailkshake-flavours
+  545  git branch
+  546  clear
+  547  git checkout milkshake-flavours 
+  548  git branch
+  549  nano milkshakes.md
+  550  git status
+  551  clear
+  552  git add .
+  553  git commit -m "added initial flavours"
+  554  git log
+  555  git checkout master
+  556  git log
+  557  clear
+  558  git branch history
+  559  git checkout history 
+  560  git log
+  561  git branch
+  562  clear
+  563  history > history.txt
